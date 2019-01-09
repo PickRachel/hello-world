@@ -2,6 +2,6 @@
 <html>
   <head></head>
   <body>
-    <h1 style="color:red;">nihao</h1>
+    <h1>nihao</h1>
   </body>
 </html>
